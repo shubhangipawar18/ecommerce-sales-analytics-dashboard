@@ -182,7 +182,7 @@ The analysis includes:
 6. **Delivery vs Rating Correlation** — Impact analysis
 7. **View Creation** — Combined data for Power BI
 
-See [ecommerce_analysis_sql.txt] for complete queries.
+See [ecommerce_analysis_sql.txt](ecommerce_analysis_sql.txt) for complete queries.
 
 ---
 
